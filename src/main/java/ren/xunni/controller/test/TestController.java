@@ -28,7 +28,7 @@ public class TestController {
         Map<String,Object> map = new HashMap<String,Object>();
         map.put("name","Flyat");
         map.put("age","25");
-        map.put("sex","man");
+        map.put("gender","男");
         return map;
     }
 
